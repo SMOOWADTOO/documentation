@@ -1,0 +1,19 @@
+{
+  "name": "wad2-docs",
+  "version": "0.0.1",
+  "description": "Documentation for WAD2 Project",
+  "main": "index.js",
+  "authors": {
+    "name": "Emmanuel Rayendra",
+    "email": "emmanuel.rayendra@gmail.com"
+  },
+  "repository": "/wad2-docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
