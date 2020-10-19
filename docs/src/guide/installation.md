@@ -19,4 +19,17 @@ $ npm run dev
 
 ## Windows
 
-Ha, _good luck_. Kidding, I'll find time to get the Windows commands tutorial.
+I found it:
+
+You need to download Node.js in your system [here](https://nodejs.org/en/download/). After that, follow these steps: 
+
+```bash
+# Change directory to root Casafair folder:
+$ cd casafair
+
+# install dependencies: Run this on first run.
+$ npm install
+
+# Subsequently, to run on localhost:3000, run the below command:
+$ npm run dev
+```
