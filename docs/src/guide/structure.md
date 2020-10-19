@@ -36,7 +36,7 @@ This is where components are stored. Notice the three folders:
 - **layouts**: This is where you store modularised layouts, such as a Carousel of images, that you can reuse at every page
 - **templates**: Here, you can find sample templates for each page that you can copy paste to reuse in other pages. **Do not import them into your pages.**
 
-Refer to our [components guide](/guide/components) for documentation.
+Refer to our [components guide](/guide/components.html) for documentation.
 
 ## Layout
 
@@ -44,11 +44,11 @@ This is the root layout of our site. You can add global styling and scripting in
 
 ## Pages
 
-This is where you store the pages and parts of the page. Refer to the [pages guide](/guide/pages) for more information.
+This is where you store the pages and parts of the page. Refer to the [pages guide](/guide/pages.html) for more information.
 
 ## Plugins
 
-This is where you store `.js` files for global variables declaration or creating Vue functions that you want to use globally. This helps to not reuse the same codes all over the page. Refer to the [plugins guide](/guide/plugins) for more information.
+This is where you store `.js` files for global variables declaration or creating Vue functions that you want to use globally. This helps to not reuse the same codes all over the page. Refer to the [plugins guide](/guide/plugins.html) for more information.
 
 ## Static
 
